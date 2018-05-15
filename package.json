@@ -1,0 +1,22 @@
+{
+  "name": "puzzles",
+  "version": "1.0.0",
+  "description": "",
+  "main": "conform.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "babel-core": "^6.26.3",
+    "babel-jest": "^22.4.3",
+    "babel-preset-env": "^1.7.0",
+    "jest": "^22.4.3",
+    "regenerator-runtime": "^0.11.1"
+  },
+  "dependencies": {
+    "global": "^4.3.2",
+    "npx": "^10.2.0"
+  }
+}
